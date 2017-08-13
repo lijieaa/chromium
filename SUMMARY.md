@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [c++基础回顾](a.md)
-  * [y](a/y.md)
+  * [左值与右值](a/y.md)
 
